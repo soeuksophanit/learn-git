@@ -4,3 +4,5 @@ console.log("this is feature");
 function print(word) {
   console.log(word);
 }
+
+console.log(first);
